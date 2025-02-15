@@ -38,7 +38,7 @@ Execute o script com apenas duas linhas de código e obtenha resultados.
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/ifc-cleaner.git
+   git clone https://github.com/luisfernandoeng/IFCleaner.git
    cd ifc-cleaner
    ```
 
