@@ -39,12 +39,12 @@ Execute o script com apenas duas linhas de código e obtenha resultados.
 1. Clone este repositório:
    ```bash
    git clone https://github.com/luisfernandoeng/IFCleaner.git
-   cd ifc-cleaner
+   cd IFCleaner
    ```
 
 2. Execute o script:
    ```python
-   python clean_ifc.py "caminho/do/arquivo.ifc" "caminho/do/output.ifc"
+   python IFCleaner.py "caminho/do/arquivo.ifc" "caminho/do/output.ifc"
    ```
 
 3. Verifique o arquivo limpo no diretório especificado.
