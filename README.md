@@ -1,6 +1,6 @@
 # 🏗️ **IFC Cleaner: Otimização de Arquivos IFC**
 
-![Python](https://img.shields.io/badge/Python-3.7%20|%203.8%20|%203.9%20|%203.10-blue?logo=python) ![License](https://img.shields.io/badge/License-MIT-green) ![IFC](https://img.shields.io/badge/IFC-Cleaner-orange)
+![Python](https://img.shields.io/badge/Python-3.7%20|%203.8%20|%203.9%20|%203.10-blue?logo=python) ![IFC](https://img.shields.io/badge/IFC-Cleaner-orange)
 
 > **O IFC Cleaner é uma ferramenta Python projetada para otimizar arquivos IFC (Industry Foundation Classes), reduzindo seu tamanho ao remover elementos desnecessários, simplificar geometrias e melhorar a eficiência do modelo.**
 
